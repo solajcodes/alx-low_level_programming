@@ -1,9 +1,7 @@
 #!/bin/bash
 
-read -p "ENTER YOUR COMMIT MESSAGE: " message
-
 git add .
 
-git commit -m '$message'
+git commit -m 'All c file on low level programming in ALX'
 
 git push
