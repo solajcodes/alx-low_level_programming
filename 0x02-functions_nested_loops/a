@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m '0x01-variables_if_else_while'
+git commit -m 'c functions and nested loop'
 
 git push
