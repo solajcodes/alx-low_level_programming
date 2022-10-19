@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m 'c functions and nested loop'
+git commit -m 'debugging in c'
 
 git push
