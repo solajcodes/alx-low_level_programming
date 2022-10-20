@@ -3,7 +3,7 @@
 
 /**
  * _isdigit - check if a var is digit
- * @var: variable to be checked
+ * @c: variable to be checked
  *
  * Return: 1 if var is digit, else 0
  */
