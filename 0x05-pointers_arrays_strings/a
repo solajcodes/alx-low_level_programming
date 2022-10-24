@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m 'more functions nested loops'
+git commit -m 'pointers and arrays strings'
 
 git push
