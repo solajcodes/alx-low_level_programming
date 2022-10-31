@@ -2,6 +2,7 @@
 #include <string.h>
 
 /**
+ * _strstr - locate a charater in a string
  * @haystack: pointer to the string haystack to be searched
  * @needle: pointer to character being searched for
  *
