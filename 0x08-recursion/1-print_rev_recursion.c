@@ -1,5 +1,5 @@
-#include "main.h"
 #include <string.h>
+#include "main.h"
 
 /**
  * _puts_recursion - print a string rcursively
@@ -8,11 +8,11 @@
 
 void _puts_recursion(char *s)
 {
-	if (*s)
+	if (strlen(s) < 1)
+		_putchar('\n');
+	else
 	{
 		_putchar(*s);
-		_put_recursion(s + 1);
+		_puts_recursion(s + 1);
 	}
-	else
-		_putchar('\n');
 }
