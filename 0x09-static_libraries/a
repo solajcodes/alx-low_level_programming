@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m 'task on static libraries'
+git commit -m 'task on argument count and argument vector'
 
 git push
