@@ -2,6 +2,6 @@
 
 git add .
 
-git commit -m 'task on memory allocation and free'
+git commit -m 'second task on memory allocation and free'
 
 git push
